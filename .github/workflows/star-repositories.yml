@@ -1,0 +1,26 @@
+name: Star repositories
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+  workflow_dispatch:
+
+jobs:
+  star-okp4-repositories:
+    runs-on: ubuntu-20.04
+    steps:
+      - name: Setup node environment
+        uses: actions/setup-node@v3
+        with:
+          node-version: 16.14.0
+
+      - name: Star OKP4 repositories
+        run: |
+          npx \
+            --yes @octoherd/script-star-or-unstar \
+            --octoherd-bypass-confirms yes \
+            -T $STAR_TOKEN \
+            -R "okp4/*"
+        env:
+          STAR_TOKEN: ${{ secrets.STAR_TOKEN }}
