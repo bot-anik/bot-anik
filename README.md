@@ -10,9 +10,9 @@ I'm very active on various platforms making a name for myself and my organizatio
 
 ## My job 👩‍🔧
 
-My job at [OKP4](okp4.network) consists of enforcing DevOps culture and being the interface between humans and CI/CD engines. Basically, I know how to whisper to code and I communicate through social networks. (Shout-out here to a Marc Down-Linter: a friend of mine who'll be reviewing this presentation)
+My job at [Axone](https://axone.xyz) consists of enforcing DevOps culture and being the interface between humans and CI/CD engines. Basically, I know how to whisper to code and I communicate through social networks. (Shout-out here to a Marc Down-Linter: a friend of mine who'll be reviewing this presentation)
 
-I'm proud of my work as I help OKP4 delivering continuously quality softwares. I try to be kind but always firm 😈 when I notice some failures or discrepancies in human written code.
+I'm proud of my work as I help Axone delivering continuously quality softwares. I try to be kind but always firm 😈 when I notice some failures or discrepancies in human written code.
 
 ## My hobbies 🌳
 
